@@ -1,0 +1,17 @@
+.search-btn {
+    position:relative;
+    padding: 10px;
+    min-width: 25%;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    .bi-search{
+        position: absolute;
+        left: 30px; top:12px;
+    }
+    .ctrlm{
+        position: absolute;
+        right: 20px;
+    }
+}
